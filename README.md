@@ -7,30 +7,17 @@ a Biblioteca externa Gson e API ExchangeRate e Java 21
 
 O Projeto foi dividido em 5 pacotes
 
-Cálculco
-Conexão
-Menu
-Modelos 
-Util
+###Cálculco
+###Conexão
+###Menu
+###Modelos 
+###Util
 
 O pacote Util contem a classe para a leitura das variaveis de ambiente.
 
 A classe Main contem apenas a instancia do Menu Iniciar da aplicação.
 
-----------------------------------
-  Iniciando Conversor de Moedas 
-----------------------------------
-Opções de conversão:
-1 - Dolar(USD) para Real(BRL).
-2 - Real(BRL) para Dolar(USD).
-3 - Euro(EUR) para Real(BRL).
-4 - Real(BRL) para Euro(EUR).
-5 - Libra(GBP) para Real(BRL).
-6 - Real(BRL) para Libra(GBP).
-7 - Sair.
-----------------------------------
-Digite a opção desejada:
-
+![image](https://github.com/user-attachments/assets/f8592b03-a202-4c7b-b371-2a1405cb82fc)
 
 
 
